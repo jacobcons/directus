@@ -19,3 +19,4 @@
 [[redirects]]
 from = "/*"
 to   = "https://directus.io/docs/"
+status = 301
